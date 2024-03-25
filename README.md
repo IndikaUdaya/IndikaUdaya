@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **indikauwmr@gmail.com**
 
-- 📄 Know about my experiences [Solution-focused Web Developer Intern with experience in web-based applications. Participated in the development and implementation of web-based solutions. Supported company business objectives and strategies while gaining real-world experience.](Solution-focused Web Developer Intern with experience in web-based applications. Participated in the development and implementation of web-based solutions. Supported company business objectives and strategies while gaining real-world experience.)
+- 📄 Know about my experiences Solution-focused Web Developer Intern with experience in web-based applications. Participated in the development and implementation of web-based solutions. Supported company business objectives and strategies while gaining real-world experience.](Solution-focused Web Developer Intern with experience in web-based applications. Participated in the development and implementation of web-based solutions. Supported company business objectives and strategies while gaining real-world experience.)
 
 - ⚡ Fun fact **In my free time, I enjoy spending time watching scientific documentariies (Aliens, the history of Egypt, Time Travelling, and mystenies of the world)**
 
